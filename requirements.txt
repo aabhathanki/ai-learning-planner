@@ -1,0 +1,6 @@
+streamlit
+groq
+python-dotenv
+pandas
+ics
+tatsu==5.6.1
